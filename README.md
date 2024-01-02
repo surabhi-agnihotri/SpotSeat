@@ -26,3 +26,7 @@ SpotSeat is a web application that allows users to check the availability of vac
    ```bash
    git clone https://github.com/your-username/SpotSeat.git
    cd SpotSeat
+## Screenshots
+
+![Screenshot 1](Screenshot (42).png)
+![Screenshot 2](images/screenshot2.png)
