@@ -28,5 +28,5 @@ SpotSeat is a web application that allows users to check the availability of vac
    cd SpotSeat
 ## Screenshots
 
-![Screenshot 1](Screenshot (42).png)
+![Screenshot 1]("C:\Users\surab\Pictures\Screenshots\Screenshot (42).png")
 ![Screenshot 2](images/screenshot2.png)
