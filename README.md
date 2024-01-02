@@ -16,8 +16,8 @@ SpotSeat is a web application that allows users to check the availability of vac
 
 ### Prerequisites
 
-- Node.js
-- MongoDB (Ensure it's running)
+- HTML
+- CSS
 
 ### Installation
 
